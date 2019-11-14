@@ -14,4 +14,4 @@ react-native run-android or react-native run-ios
 ```
 
 ## UserPic
-![loT 图片](./shot.png =100x)
+![loT 图片](./shot.png)
